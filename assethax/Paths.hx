@@ -12,7 +12,6 @@ class Paths
     {
         return returnPath(path, 'assets${libraryLengthCheck(library) ? '/$library': ''}');
     }
-
     
     static inline function libraryLengthCheck(library:String = null):Bool
     {
