@@ -3,9 +3,9 @@ package assethax;
 class Paths 
 {
     
-    public static function returnPath(path:String, library:String)
+    public static function returnPath(path:String, ?library:String = null)
     {
-        return '${library.length > 0 ? library + '/': ''}$path';
+        return '${library != null && library.length > 0 ? library + '/': ''}$path';
     }
     
 }
