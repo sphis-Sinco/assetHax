@@ -1,16 +1,13 @@
 {
-    "name": "useless_lib",
-    "url" : "https://github.com/jasononeil/useless/",
+    "name": "AssetHax",
+    "url" : "https://github.com/sphis-Sinco/assetHax",
     "license": "MIT",
-    "tags": ["cross", "useless"],
-    "description": "This library is useless in the same way on every platform.",
-    "version": "1.0.0",
-    "classPath": "src/",
+    "tags": ["haxe", "assets", "useless"],
+    "description": "This library helps around with asset stuff",
+    "version": "0.0.1",
+    "classPath": "assethax/",
     "releasenote": "Initial release, everything is working correctly.",
-    "contributors": ["Juraj","Jason","Nicolas"],
-    "dependencies": {
-      "tink_macro": "",
-      "nme": "3.5.5"
-    },
+    "contributors": ["Sinco"],
+    "dependencies": {},
     "main": "tools.Main"
   }
