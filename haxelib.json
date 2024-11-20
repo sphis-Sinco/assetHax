@@ -6,7 +6,7 @@
     "description": "This library helps around with asset stuff",
     "version": "0.0.1",
     "classPath": "assethax/",
-    "releasenote": "Initial release, everything is working correctly.",
+    "releasenote": "Check changelog",
     "contributors": ["Sinco"],
     "dependencies": {}
   }
