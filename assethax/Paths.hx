@@ -5,7 +5,7 @@ class Paths
     
     public static function returnPath(path:String, library:String)
     {
-        return '$library/$path';
+        return '${library.length > 0 ? library + '/': ''}$path';
     }
     
 }
