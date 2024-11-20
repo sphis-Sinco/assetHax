@@ -2,3 +2,4 @@
 ## Added
 - `Paths.hx` - A file to return asset paths (example: `assets/images/ui/default/button.png`)
   - `returnPath(path, library)` - returns a path with the `library` argument being put in first as a folder as long as the `library` argument isn't null
+  - `returnAssetPath(path, library)` - ditto but will return a path in the `assets/` folder
