@@ -8,6 +8,5 @@
     "classPath": "assethax/",
     "releasenote": "Initial release, everything is working correctly.",
     "contributors": ["Sinco"],
-    "dependencies": {},
-    "main": "tools.Main"
+    "dependencies": {}
   }
